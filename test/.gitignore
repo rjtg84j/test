@@ -1,0 +1,7 @@
+#Gitの管理に含めないファイル
+.aux
+.dvi
+.fdb_latexmk
+.fls
+.log
+.synctex.gz
